@@ -1,4 +1,4 @@
-PyTorch Paper Replication Project
+# PyTorch Paper Replication Project
 Overview
 
 This project focuses on replicating a machine learning research paper in PyTorch and translating research concepts into usable, practical code.
@@ -7,7 +7,7 @@ With the rapid growth of machine learning, new papers introducing advancements a
 
 This project was built as a hands-on exercise in paper replication: taking ideas presented in a research paper — often compressed into just a few pages of text, math, and diagrams — and turning them into a working implementation.
 
-Purpose
+# Purpose
 
 The goal of this project was to:
 
@@ -19,7 +19,7 @@ Learn how to break down complex models into manageable parts
 
 Explore the tradeoff between model performance and deployment practicality
 
-Key Takeaways
+# Key Takeaways
 1. Machine learning research is moving fast
 
 With the explosion of machine learning, new research papers detailing advancements come out every day. It’s impossible to keep up with everything, so it helps to narrow the focus to papers that align with your own use case.
